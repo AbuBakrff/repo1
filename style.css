@@ -1,0 +1,4 @@
+body{border:5px solid rgb(255, 0, 0);text-decoration: dotted;width:500px; height:300px;}
+.container {color:blue;
+    display: flex; /* or inline-flex */
+  }
